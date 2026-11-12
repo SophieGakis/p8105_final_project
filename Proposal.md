@@ -1,40 +1,45 @@
 Team Registration and Proposal
 ================
 
-There should be one proposal per group, written collaboratively using
-.Rmd (rendering to a GH document) in a dedicated GitHub repo. This is
-intended to describe a project that is in the planning stages. Only one
-team member should submit this proposal via Canvas. Please also submit
-(only once per team) a list of your team’s UNIs using this form. Doing
-so will help us keep track of teams.
-
-First, you will define your teams and propose a project. This proposal
-should be a half-page to a page in length and include:
-
 • The group members (names and UNIs): Katherine Dunn (kad2243), Cristin
 Holland (cmh2275), Stephanie Chuquipul Calderon (sgc2153), and Sophie
 Gakis (sig2127)
 
-• The tentative project title:
+• The tentative project title: 2025 Housing Statuses by Selected
+Demographics
 
-• The motivation for this project:
+• The motivation for this project: With a evolving ecomnomic and social
+environment in the United States, it is of interest of many individuals,
+particularly young people in non-permanent housing situations,to
+understand the state of housing in the US. With renting becoming
+apparently more common and home ownership declines due to corporate
+property ownership, it is important to quantify who is most effected by
+the barriers to ownership. Our analysis is exploratory in nature and
+will aim to identify key demographics which result in varying housing
+statuses. We will identify and compare demographics available in the US
+Census Bureau’s 2025 data set.
 
-• The intended final products:
+• The intended final products: We will create a dashboard displaying key
+housing trends by population demographics and present our most salient
+findings in a brief video presentation.
 
 • The anticipated data sources: The National Survey of Children’s Health
 (NSCH) by the U.S. Census Bureau.
 
-• The planned analyses / visualizations / coding challenges: We will use
-plotly and flexdashboards to create interactive visualizations of our
-chosen analyses. Some of the anticipated coding challanges include the
-initial importing, tidying, and manipulation of the dataset since this
-data set is not familiar to everyone in our group and it is very large.
-We will have to narrow it down to what variables are going to be useful
-for us and our analyses, which will take much time and careful
-consideration. Another anticipated coding challenge that this is our
-first collaborative project for this course. Learning how to work with
-the code that our teammates write and then using it to continue
-producing more of the project ourselves will be a challenge as well.
+• The planned analyses / visualizations / coding challenges: Exploratory
+comparisons of housing status (renting, owning, morgage status,
+building/home type) by selected demographics. Computing proportions of
+hosing status for each category of selected. We will use plotly and
+flexdashboards to create interactive visualizations of our chosen
+analyses. Some of the anticipated coding challenges include the initial
+importing, tidying, and manipulation of the data set since this data set
+is not familiar to everyone in our group and it is very large. We will
+have to narrow it down to what variables are going to be useful for us
+and our analyses, which will take much time and careful consideration.
+Another anticipated coding challenge that this is our first
+collaborative project for this course. Learning how to work with the
+code that our teammates write and then using it to continue producing
+more of the project ourselves will be a challenge as well.
 
 • The planned timeline: There are 4 weeks between when this proposal is
 due and when the final project is due. Our timeline proposes to split
